@@ -1,0 +1,28 @@
+{
+  "name": "discussions",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bootstrap-vue": "^2.0.4",
+    "gridsome": "^0.7.0",
+    "remark-html": "^10.0.0",
+    "remark-parse": "^7.0.1",
+    "unified": "^8.4.1",
+    "vue-async-computed": "^3.7.0",
+    "vue-axios": "^2.1.5",
+    "vue-markdown": "^2.2.4",
+    "vue-moment": "^4.0.0",
+    "vuex": "^3.1.1"
+  },
+  "devDependencies": {
+    "eslint-plugin-gridsome": "^1.3.2",
+    "eslint-plugin-vue": "^5.2.3",
+    "standard": "^14.3.1",
+    "vue": "^2.6.10"
+  }
+}
