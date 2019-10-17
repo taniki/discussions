@@ -19,7 +19,7 @@
 
 <script>
 import DiscussionThreadItem from './DiscussionThreadItem'
-import DatasetCard from './DatasetCard'
+import { DatasetCard } from 'etalabstudio-components'
 
 import { mapState } from 'vuex'
 
