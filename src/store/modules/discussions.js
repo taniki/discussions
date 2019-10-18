@@ -12,7 +12,7 @@ const module = {
   state () {
     return {
       discussions: [],
-      dataset: {},
+      subject: {},
       thread: {}
     }
   },
