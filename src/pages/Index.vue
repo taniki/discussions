@@ -6,10 +6,13 @@
         class="pt-4"
       >
         <b-row>
-          <b-col cols="3">
+          <b-col
+            md="3"
+            class="mb-3 mb-md-0"
+          >
             <DiscussionsList />
           </b-col>
-          <b-col cols="8">
+          <b-col md="9">
             <DiscussionThread />
           </b-col>
         </b-row>
