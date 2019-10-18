@@ -2,7 +2,7 @@
   <div>
     <DatasetCard
       :url="subject.page"
-      class="mb-5"
+      class="mb-4"
     />
 
     <b-card>
