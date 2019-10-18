@@ -9,7 +9,9 @@
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap-vue": "^2.0.4",
+    "etalabstudio-components": "git+https://github.com/taniki/etalabstudio-toolkit.git",
     "gridsome": "^0.7.0",
+    "remark-breaks": "^1.0.3",
     "remark-html": "^10.0.0",
     "remark-parse": "^7.0.1",
     "unified": "^8.4.1",

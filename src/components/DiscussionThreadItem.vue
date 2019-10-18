@@ -25,9 +25,11 @@
 import unified from 'unified'
 import markdown from 'remark-parse'
 import html from 'remark-html'
+import breaks from 'remark-breaks'
 
 const $processor = unified()
   .use(markdown)
+  .use(breaks)
   .use(html)
 
 export default {
