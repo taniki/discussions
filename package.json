@@ -12,7 +12,7 @@
     "etalabstudio-components": "git+https://github.com/taniki/etalabstudio-toolkit.git",
     "gridsome": "^0.7.0",
     "remark-breaks": "^1.0.3",
-    "remark-html": "^10.0.0",
+    "remark-html": "^13.0.2",
     "remark-parse": "^7.0.1",
     "unified": "^8.4.1",
     "vue-async-computed": "^3.7.0",
